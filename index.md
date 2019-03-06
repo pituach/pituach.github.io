@@ -1,8 +1,3 @@
-
-{% include my_included.html %}
-<!-- This is top index -->
-
-
 ## Welcome to Ronen's GitHub Pages 00001
  
 You can use the [editor on GitHub](https://github.com/pituach/pituach.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
