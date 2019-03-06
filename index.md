@@ -1,7 +1,3 @@
----
-title: Home
-weight: 1
----
 
 {% include my_included.html %}
 <!-- This is top index -->
