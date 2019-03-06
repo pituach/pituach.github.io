@@ -1,8 +1,14 @@
+---
+title: Home
+weight: 1
+---
 
 {% include my_included.html %}
+<!-- This is top index -->
 
-## Welcome to Ronen's GitHub Pages
 
+## Welcome to Ronen's GitHub Pages 00001
+ 
 You can use the [editor on GitHub](https://github.com/pituach/pituach.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
